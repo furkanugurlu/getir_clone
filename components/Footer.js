@@ -33,7 +33,7 @@ function Footer() {
         </div>
         <div className="flex justify-between items-center border-t border-gray-100 mt-6 py-6">
           <div className="text-xs text-grau-700 flex gap-x-8">
-            &copy; 2021 Getir
+            &copy; 2022 Getir
             <a href="">Bilgi Toplumu Hizmetleri</a>
           </div>
           <nav className="flex gap-x-3 ">
